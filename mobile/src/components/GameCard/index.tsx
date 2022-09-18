@@ -3,7 +3,6 @@ import {
   TouchableOpacity,
   TouchableOpacityProps,
   ImageBackground,
-  ImageSourcePropType,
 } from "react-native";
 import { LinearGradient } from "expo-linear-gradient";
 
